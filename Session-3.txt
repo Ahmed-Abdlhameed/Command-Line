@@ -1,0 +1,42 @@
+>> Directories and files part-1:
+
+> [λ cd]: Stands for "change directory".
+
+   - [λ cd .. || cd ..\ || .. || ..\]: Goes back one directory.
+   - [λ cd e:\new]: Go back to specific location.
+   - [λ cd \ || \]: Goes back to the root.
+   - [λ e:]: Goes to root E (same command for any root).
+   - [λ cd css]: Go into the directory css.
+----------------------------------------------------------
+
+> [λ mkdir]: Stands for "make directory".
+
+   - [λ mkdir css]: Create a directory named css.
+   - [λ mkdir css\assets\asset-1]: Create multiple directories inside each other.
+   - [λ mkdir "Ahmed Abdelhameed"]: Create a directory inside "" if it has spaces.
+   - [λ mkdir css js fonts imgs assets] : Create multiple directories.
+   - [λ mkdir ..\test]: Create directory in the parent directory.
+   - [λ mkdir ..\test\testing]: Create directory inside another directory in the parent directory.
+   - [λ mkdir c:\test]: Create directory in the C root.
+----------------------------------------------------------
+
+> [λ ls]: Stands for "list all files & directories", (dir) For CMD.
+   
+   - [λ ls dir-1]: List the contents of dir-1.
+   - [λ ls "dir 1"]: List the contents of dir 1.
+----------------------------------------------------------
+
+> [λ explorer]:
+
+   - [λ explorer .]: Opens the explorer in the location you are in.
+   - [λ explorer file-1]: Access file-1.
+   - [λ explorer "file 1"]: Access file 1.
+   - [λ file-1 explorer]: Access file-1.
+   - [λ "file 1" explorer]: Access file 1.
+   - [λ file-1]: Access file-1.
+   - [λ "file 1"]: Access file 1.
+----------------------------------------------------------
+
+> [λ clear]: Stands for "clears the screen", (cls) For CMD.
+----------------------------------------------------------
+> [λ exit]: Exits the terminal.

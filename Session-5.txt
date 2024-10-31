@@ -1,0 +1,36 @@
+>> Cat and echo:
+
+> [λ echo]:
+   
+   - [λ echo hello]: Prints hello.
+   - [λ echo hello > text.txt]: Create a text file and put in it hello,
+     but if there's a file named text.txt then it'll overwrite it.
+
+   - [λ echo hello >> text.txt]: Create a text file and put in it hello,
+     and if there's a file named text.txt then it'll append the word hello
+     in it without overwriting it.
+----------------------------------------------------------
+
+> [λ cat]: Stands for catenate.
+   
+   - [λ cat file-1]: Show the contents in file-1.
+   - [λ cat file 1]: Show the contents in file 1.
+   - [λ cat file-1 "file 1"]: Show the contents of multiple files.
+   - [λ cat file-1 > file-2]: Copy file-1 contents and creates file-2 and put
+     them in it, and if there's a file named file-2 it overwrites its content
+     and put file-1 contents instead.
+
+   - [λ cat file-1 >> file-2]: Copy file-1 contents and creates file-2 and put
+     them in it, and if there's a file named file-2 it appends the copied files
+     into it.
+
+   - [λ cat file-1 file-2 > file-3]: Copy file-1 and file-2 into a new file-3,
+     and if exists it'll overwrites it.
+
+   - [λ cat file-1 file-2 >> file-3]: Copy file-1 and file-2 into file-3 and
+     without overwriting its contents but appending the copied files to it.
+
+   - [λ echo Hello > folder-1\file-1]: Creates file-1 inside existing folder-1 and
+     put the word Hello in it.
+
+   - [λ cat *]: Show the contents of all files and directories where you are. 

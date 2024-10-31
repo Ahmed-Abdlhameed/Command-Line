@@ -1,0 +1,28 @@
+>> Command line secrets part-1:
+
+> [λ touch]: Used to create files.
+   
+   - [λ touch file-1.txt]: Creates file-1.txt.
+   - [λ touch file-1.txt file-2.html file-3.css]: Create multiple files with different types.
+----------------------------------------------------------
+
+> [λ file]: used to know the types of the files.
+
+   - [λ file file-1]: Shows the type of file-1.
+   - [λ file file-1 file-2]: Shows the type of multiple files.
+   - [λ file *]: Shows the type of the contents inside the location you're in.
+----------------------------------------------------------
+
+> [λ Ctrl + c]: Stops any running process.
+----------------------------------------------------------
+
+> [λ tree || tree /a]: Show the the archticture of all directories and sub directories.
+   
+   - [λ tree dir-1 || tree /a dir-1]: Show the archticture of all directories and sub directories in dir-1.
+----------------------------------------------------------
+
+> [λ osk]: Open the on screen keyboard.
+----------------------------------------------------------
+
+> [λ tasklist]: Show all the tasks running on the system.
+----------------------------------------------------------

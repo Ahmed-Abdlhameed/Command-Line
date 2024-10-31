@@ -1,0 +1,29 @@
+>> Directories and files part-2:
+
+> [λ command --help]: Get help for any command.
+> [λ command /?], For UNIX (man command): Shows the manual to the command and info about it with syntax.
+----------------------------------------------------------
+
+> [λ mv]: Stands for "move", For CMD (move, rename).
+
+   - [λ mv Testing Test]: Rename Testing directory to Test, but if there's
+      another directory named Test in the location you're in then it'll mean
+      moving Testing directory into Test.
+
+   - [λ mv Testing ..]: Move Testing directory back to the previous parent directory.
+   - [λ mv Testing ..\Test\Old]: Move Testing directory back to the parent directory Old.
+   - [λ mv Testing \]: Move Testing directory back to the root.
+   - [λ mv Testing \Test]: Move Testing directory back to the root then Test directory.
+----------------------------------------------------------
+
+> [λ cp]: Stands for "copy".
+
+   - [λ cp -r dir-1 dir-2]: Copy dir-1 to dir-2", the rest is like mv.
+   - [λ cp -r dir-1 dir-2 dir-3]: Copy dir-1 & dir-2 to dir-3.
+----------------------------------------------------------
+
+> [λ rm]: Stands for "remove".
+
+   - [λ rm -r dir-1]: Remove dir-1.
+   - [λ rm -rf dir-1]: Force remove dir-1 and all its contents.
+   - [λ -d dir-1 || λ rmdir dir-1]: Remove dir-1 if it's empty.

@@ -1,0 +1,17 @@
+>> Grep with examples:
+
+> [λ grep]: Stands for global regular expression print.
+   
+   - [λ grep hello file-1 || λ grep "hello" file-1]: Searches if file-1 contains the word hello.
+   - [λ grep "Hello" -r]: Searches for the text "Hello" in the current directory and all its
+     contents even other directories.
+   
+   - [λ grep "Hello" -r folder-1]: Searches for the word "Hello" inside the contents of the 
+     folder-1 which is inside the current directory.
+
+   - [λ grep "H" -r]: Searches for the word "H" inside the current directory and all its contents
+     so if you have the word "Hello" it'll show either as it's starting with thet letter "H".
+
+   - [λ grep "Hello" -rl]: List all the directories and files containing the word "Hello".
+   
+----------------------------------------------------------
