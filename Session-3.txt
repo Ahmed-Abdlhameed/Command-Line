@@ -21,7 +21,11 @@
 ----------------------------------------------------------
 
 > [λ ls]: Stands for "list all files & directories", (dir) For CMD.
-   
+
+   - [λ ls]: List the contents of the directory you are currently in.
+   - [λ ls -a]: List all files and directories even the hidden ones.
+   - [λ ls -l]: List all files and directories with all their information (Date created, etc...).
+   - [λ ls -al]: Combining the 2 previous commands.
    - [λ ls dir-1]: List the contents of dir-1.
    - [λ ls "dir 1"]: List the contents of dir 1.
 ----------------------------------------------------------
