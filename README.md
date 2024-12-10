@@ -7,7 +7,10 @@ This repository contains a collection of topics, commands & notes to enhance und
 ## Table of Contents
 
 - [Sessions topics](#sessions-topics)
-- [Documentary website (SS64)](#documentary-website-(ss64))
+- [Documentary website (SS64)](#documentary-website-SS64)
+- [How to Use](#how-to-use)
+- [Contributions](#contributions)
+- [License](#license)
 
 ---
 
@@ -53,7 +56,8 @@ This repository contains a collection of topics, commands & notes to enhance und
 ## Documentary website (SS64)
 
 - **Purpose**: This website is for additional resources and references related to command line topics and utilities.
-- [Visit SS64 website](https://ss64.com/)
+
+  [Visit SS64 website](https://ss64.com/)
 
 ---
 
@@ -71,4 +75,4 @@ Feel free to fork the repository and contribute by adding more commands or notes
 
 ## License
 
-This repository is for personal documentation purposes. Feel free to use or distribute its content as you wish :)
+This repository is for personal documentation purposes. Feel free to use or distribute its content as you wish.
