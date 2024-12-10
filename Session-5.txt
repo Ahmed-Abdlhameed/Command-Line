@@ -9,8 +9,8 @@
    - [λ echo hello >> text.txt]: Create a text file and put in it hello,
      and if there's a file named text.txt then it'll append the word hello
      in it without overwriting it.
-----------------------------------------------------------
 
+----------------------------------------------------------
 > [λ cat]: Stands for catenate.
    
    - [λ cat file-1]: Show the contents in file-1.

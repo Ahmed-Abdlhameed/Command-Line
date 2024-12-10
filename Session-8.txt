@@ -1,37 +1,38 @@
 >> Command line secrets part-2:
 
-> [λ alias]: Show all shortcuts for commands.
+> [λ alias]: Shows all shortcuts for commands.
    
    - [λ e.]: Represents explorer .
    - [λ ct]: Represents cat.
    - [λ l]: Represents ls.
    - and so on...
    - [λ alias a=command]: Creating an alias.
-   - [λ unalias a]: Remove the alias a.
-----------------------------------------------------------
+   - [λ unalias a]: Removes the alias a.
 
+----------------------------------------------------------
 > [λ ipconfig]: used to know the network and computer IP.
-----------------------------------------------------------
 
+----------------------------------------------------------
 > [λ command && command]: Excutes multiple commands at the same time.
-----------------------------------------------------------
 
-> [λ whoami]: Show the current user using the computer.
 ----------------------------------------------------------
+> [λ whoami]: Shows the current user using the computer.
 
-> [λ systeminfo]: Show the info of the computer and network.
 ----------------------------------------------------------
+> [λ systeminfo]: Shows the info of the computer and network.
 
-> [λ ping facebook.com]: Send a package to facebook.com and checks if it's working
+----------------------------------------------------------
+> [λ ping facebook.com]: Sends a package to facebook.com and checks if it's working
    and gets back with info.
 
    - [λ ping facebook.com > ping.txt]: Saves the package restored in ping.txt file.
-----------------------------------------------------------
 
-> [λ ipconfig | clip || λ ipconfig > clip]: Copy the ipconfig info to the clipboard.
-  
-   - [λ systeminfo | clip]: Copy the system info to the clipboard.
-   - [λ any command | clip]: Copy the result to the clipboard.
 ----------------------------------------------------------
+> [λ any command | clip]: Copys the result to the clipboard. 
 
+   - [λ ipconfig | clip || λ ipconfig > clip]: Copys the ipconfig info to the clipboard.  
+   - [λ systeminfo | clip]: Copys the system info to the clipboard.
+   - [λ any command | clip]: Copys the result to the clipboard.
+
+----------------------------------------------------------
 > [λ code]: Open VS code.

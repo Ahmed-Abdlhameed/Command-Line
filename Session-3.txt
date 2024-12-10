@@ -7,8 +7,8 @@
    - [λ cd \ || \]: Goes back to the root.
    - [λ e:]: Goes to root E (same command for any root).
    - [λ cd css]: Go into the directory css.
-----------------------------------------------------------
 
+----------------------------------------------------------
 > [λ mkdir]: Stands for "make directory".
 
    - [λ mkdir css]: Create a directory named css.
@@ -18,8 +18,8 @@
    - [λ mkdir ..\test]: Create directory in the parent directory.
    - [λ mkdir ..\test\testing]: Create directory inside another directory in the parent directory.
    - [λ mkdir c:\test]: Create directory in the C root.
-----------------------------------------------------------
 
+----------------------------------------------------------
 > [λ ls]: Stands for "list all files & directories", (dir) For CMD.
 
    - [λ ls]: List the contents of the directory you are currently in.
@@ -28,8 +28,8 @@
    - [λ ls -al]: Combining the 2 previous commands.
    - [λ ls dir-1]: List the contents of dir-1.
    - [λ ls "dir 1"]: List the contents of dir 1.
-----------------------------------------------------------
 
+----------------------------------------------------------
 > [λ explorer]:
 
    - [λ explorer .]: Opens the explorer in the location you are in.
@@ -39,8 +39,9 @@
    - [λ "file 1" explorer]: Access file 1.
    - [λ file-1]: Access file-1.
    - [λ "file 1"]: Access file 1.
-----------------------------------------------------------
 
+----------------------------------------------------------
 > [λ clear]: Stands for "clears the screen", (cls) For CMD.
+
 ----------------------------------------------------------
 > [λ exit]: Exits the terminal.
