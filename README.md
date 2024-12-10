@@ -24,32 +24,32 @@ This repository contains a collection of topics, commands & notes to enhance und
 ### Session-3:
 - **Purpose**: This session provides details and notes about working with directories and files using commands like (cd, ls, mkdir, explorer, clear & exit).
 
-  ![View session](Session-3.PNG)
+  ![View session](Session-3.txt)
 
 ### Session-4: 
 - **Purpose**: This session builds on the previous session and provides details and notes about working with directories and files using commands like (mv, cp & rm).
 
-  ![View session](Session-4.PNG)
+  ![View session](Session-4.txt)
 
 ### Session-5:
 - **Purpose**: This session provides details and notes about copying and viewing files content using commands like (cat & echo).
 
-  ![View session](Session-5.PNG)
+  ![View session](Session-5.txt)
 
 ### Session-6:
 - **Purpose**: This session provides details about searching text within files and directories using commands like (grep).
 
-  ![View session](Session-6.PNG)
+  ![View session](Session-6.txt)
 
 ### Session-7:
 - **Purpose**: This session covers various useful commands and their functionalities like (touch, file, tree, osk & tasklist).
 
-  ![View session](Session-7.PNG)
+  ![View session](Session-7.txt)
 
 ### Session-8:
 - **Purpose**: This session builds on the previous session covering more useful commands and their functionalities like (alias, ipconfig, whoami, systeminfo & clip)
 
-  ![View session](Session-8.PNG)
+  ![View session](Session-8.txt)
 
 ---
 
