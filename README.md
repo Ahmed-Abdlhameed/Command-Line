@@ -8,7 +8,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 - [Sessions topics](#sessions-topics)
 - [Documentary website (SS64)](#documentary-website-SS64)
-- [How to Use](#how-to-use)
+- [How to use](#how-to-use)
 - [Contributions](#contributions)
 - [License](#license)
 
@@ -61,7 +61,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ---
 
-## How to Use
+## How to use
 
 Navigate to the appropriate file to review its content.
 
