@@ -4,11 +4,18 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ---
 
-## Table of Contents
+## Table of contents
 
 - [Sessions topics](#sessions-topics)
+  - [Session-3: Deep info](#session-1)
+  - [Session-3: Directories and files (part one)](#session-3)
+  - [Session-4: Directories and files (part two)](#session-4)
+  - [Session-5: Cat and echo](#session-5)
+  - [Session-6: Grep with examples](#session-6)
+  - [Session-7: Command line secrets (part one)](#session-7)
+  - [Session-8: Command line secrets (part two)](#session-8)
 - [Documentary website (SS64)](#documentary-website-SS64)
-- [How to Use](#how-to-use)
+- [How to use](#how-to-use)
 - [Contributions](#contributions)
 - [License](#license)
 
@@ -61,7 +68,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ---
 
-## How to Use
+## How to use
 
 Navigate to the appropriate file to review its content.
 
