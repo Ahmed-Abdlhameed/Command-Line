@@ -35,4 +35,4 @@
    - [λ any command | clip]: Copys the result to the clipboard.
 
 ----------------------------------------------------------
-> [λ code]: Open VS code.
+> [λ code]: Opens VS code.

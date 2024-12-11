@@ -3,31 +3,31 @@
 > [λ cd]: Stands for "change directory".
 
    - [λ cd .. || cd ..\ || .. || ..\]: Goes back one directory.
-   - [λ cd e:\new]: Go back to specific location.
+   - [λ cd e:\new]: Goes back to specific location.
    - [λ cd \ || \]: Goes back to the root.
    - [λ e:]: Goes to root E (same command for any root).
-   - [λ cd css]: Go into the directory css.
+   - [λ cd css]: Goes into the directory css.
 
 ----------------------------------------------------------
 > [λ mkdir]: Stands for "make directory".
 
-   - [λ mkdir css]: Create a directory named css.
-   - [λ mkdir css\assets\asset-1]: Create multiple directories inside each other.
-   - [λ mkdir "Ahmed Abdelhameed"]: Create a directory inside "" if it has spaces.
-   - [λ mkdir css js fonts imgs assets] : Create multiple directories.
-   - [λ mkdir ..\test]: Create directory in the parent directory.
-   - [λ mkdir ..\test\testing]: Create directory inside another directory in the parent directory.
-   - [λ mkdir c:\test]: Create directory in the C root.
+   - [λ mkdir css]: Creates a directory named css.
+   - [λ mkdir css\assets\asset-1]: Creates multiple directories inside each other.
+   - [λ mkdir "Ahmed Abdelhameed"]: Creates a directory inside "" if it has spaces.
+   - [λ mkdir css js fonts imgs assets] : Creates multiple directories.
+   - [λ mkdir ..\test]: Creates directory in the parent directory.
+   - [λ mkdir ..\test\testing]: Creates directory inside another directory in the parent directory.
+   - [λ mkdir c:\test]: Creates directory in the C root.
 
 ----------------------------------------------------------
 > [λ ls]: Stands for "list all files & directories", (dir) For CMD.
 
-   - [λ ls]: List the contents of the directory you are currently in.
-   - [λ ls -a]: List all files and directories even the hidden ones.
-   - [λ ls -l]: List all files and directories with all their information (Date created, etc...).
+   - [λ ls]: Lists the contents of the directory you are currently in.
+   - [λ ls -a]: Lists all files and directories even the hidden ones.
+   - [λ ls -l]: Lists all files and directories with all their information (Date created, etc...).
    - [λ ls -al]: Combining the 2 previous commands.
-   - [λ ls dir-1]: List the contents of dir-1.
-   - [λ ls "dir 1"]: List the contents of dir 1.
+   - [λ ls dir-1]: Lists the contents of dir-1.
+   - [λ ls "dir 1"]: Lists the contents of dir 1.
 
 ----------------------------------------------------------
 > [λ explorer]:

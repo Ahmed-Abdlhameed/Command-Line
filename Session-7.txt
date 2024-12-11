@@ -16,12 +16,12 @@
 > [λ Ctrl + c]: Stops any running process.
 
 ----------------------------------------------------------
-> [λ tree || tree /a]: Show the the archticture of all directories and sub directories.
+> [λ tree || tree /a]: Shows the the archticture of all directories and sub directories.
    
-   - [λ tree dir-1 || tree /a dir-1]: Show the archticture of all directories and sub directories in dir-1.
+   - [λ tree dir-1 || tree /a dir-1]: Shows the archticture of all directories and sub directories in dir-1.
 
 ----------------------------------------------------------
-> [λ osk]: Open the on screen keyboard.
+> [λ osk]: Opens the on screen keyboard.
 
 ----------------------------------------------------------
-> [λ tasklist]: Show all the tasks running on the system.
+> [λ tasklist]: Shows all the tasks running on the system.
