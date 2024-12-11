@@ -26,7 +26,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 ### Session-1: 
 - **Purpose**: This image explains the meaning of Shell, PowerShell, Terminal & CMD.
 
-  ![View image](Session-1.PN)
+  ![View image](Session-1.PNG)
 
 ### Session-3:
 - **Purpose**: This session provides details and notes about working with directories and files using commands like (cd, ls, mkdir, explorer, clear & exit).
