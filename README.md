@@ -1,74 +1,74 @@
-# Summary Of Command Line Topics, Commands & Notes:
+# Summary of Command line topics, commands & notes:
 
 This repository contains a collection of topics, commands & notes to enhance understanding of Command line.
 
 ---
 
-## Table Of Contents
+## Table of contents
 
-- [Sessions Topics](#sessions-topics)
-  - [Session-3: Deep Info](#session-1)
-  - [Session-3: Directories & Files (Part One)](#session-3)
-  - [Session-4: Directories & Files (Part Two)](#session-4)
-  - [Session-5: Cat & Echo](#session-5)
-  - [Session-6: Grep With Examples](#session-6)
-  - [Session-7: Command Line Secrets (Part One)](#session-7)
-  - [Session-8: Command Line Secrets (Part Two)](#session-8)
-- [Documentary Website (SS64)](#documentary-website-SS64)
-- [How To Use](#how-to-use)
+- [Sessions topics](#sessions-topics)
+  - [Session-3: Deep info](#session-1)
+  - [Session-3: Directories and files (part one)](#session-3)
+  - [Session-4: Directories and files (part two)](#session-4)
+  - [Session-5: Cat and echo](#session-5)
+  - [Session-6: Grep with examples](#session-6)
+  - [Session-7: Command line secrets (part one)](#session-7)
+  - [Session-8: Command line secrets (part two)](#session-8)
+- [Documentary website (SS64)](#documentary-website-SS64)
+- [How to use](#how-to-use)
 - [Contributions](#contributions)
 - [License](#license)
 
 ---
 
-## Sessions Topics
+## Sessions topics
 
 ### Session-1: 
 - **Purpose**: This image explains the meaning of Shell, PowerShell, Terminal & CMD.
 
-  ![View Image](Session-1.PNG)
+  ![View image](Session-1.PNG)
 
 ### Session-3:
 - **Purpose**: This session provides details and notes about working with directories and files using commands like (cd, ls, mkdir, explorer, clear & exit).
 
-  ![View Session](Session-3.txt)
+  ![View session](Session-3.txt)
 
 ### Session-4: 
 - **Purpose**: This session builds on the previous session and provides details and notes about working with directories and files using commands like (mv, cp & rm).
 
-  ![View Session](Session-4.txt)
+  ![View session](Session-4.txt)
 
 ### Session-5:
 - **Purpose**: This session provides details and notes about copying and viewing files content using commands like (cat & echo).
 
-  ![View Session](Session-5.txt)
+  ![View session](Session-5.txt)
 
 ### Session-6:
 - **Purpose**: This session provides details about searching text within files and directories using commands like (grep).
 
-  ![View Session](Session-6.txt)
+  ![View session](Session-6.txt)
 
 ### Session-7:
 - **Purpose**: This session covers various useful commands and their functionalities like (touch, file, tree, osk & tasklist).
 
-  ![View Session](Session-7.txt)
+  ![View session](Session-7.txt)
 
 ### Session-8:
 - **Purpose**: This session builds on the previous session covering more useful commands and their functionalities like (alias, ipconfig, whoami, systeminfo & clip)
 
-  ![View Session](Session-8.txt)
+  ![View session](Session-8.txt)
 
 ---
 
-## Documentary Website (SS64)
+## Documentary website (SS64)
 
 - **Purpose**: This website is for additional resources and references related to command line topics and utilities.
 
-  [Visit SS64 Website](https://ss64.com/)
+  [Visit SS64 website](https://ss64.com/)
 
 ---
 
-## How To Use
+## How to use
 
 Navigate to the appropriate file to review its content.
 
