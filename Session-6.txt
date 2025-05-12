@@ -14,5 +14,3 @@
 
    - [λ grep "Hello" -rl]: List all the directories and files containing the word "Hello".
    - [λ grep '.mp4' -rl | clip]: List all the directories and files containing .mp4 files.
-   
-----------------------------------------------------------
