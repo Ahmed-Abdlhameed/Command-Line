@@ -1,4 +1,4 @@
->> Command line secrets part-1:
+>> Command Line Secrets Part-1:
 
 > [λ touch]: Used to create files.
    
@@ -6,7 +6,7 @@
    - [λ touch file-1.txt file-2.html file-3.css]: Create multiple files with different types.
 
 ----------------------------------------------------------
-> [λ file]: used to know the types of the files.
+> [λ file]: Used to know the types of the files.
 
    - [λ file file-1]: Shows the type of file-1.
    - [λ file file-1 file-2]: Shows the type of multiple files.
