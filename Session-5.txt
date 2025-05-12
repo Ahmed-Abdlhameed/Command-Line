@@ -1,4 +1,4 @@
->> Cat and echo:
+>> Cat & Echo:
 
 > [λ echo]:
    
