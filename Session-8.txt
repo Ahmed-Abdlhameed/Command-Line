@@ -1,4 +1,4 @@
->> Command line secrets part-2:
+>> Command Line Secrets Part-2:
 
 > [λ alias]: Shows all shortcuts for commands.
    
@@ -10,7 +10,7 @@
    - [λ unalias a]: Removes the alias a.
 
 ----------------------------------------------------------
-> [λ ipconfig]: used to know the network and computer IP.
+> [λ ipconfig]: Used to know the network and computer IP.
 
 ----------------------------------------------------------
 > [λ command && command]: Excutes multiple commands at the same time.
