@@ -22,7 +22,6 @@
    - [λ cp -r dir-1 dir-2 dir-3]: Copys dir-1 & dir-2 to dir-3.
 
 ----------------------------------------------------------
-
 > [λ rm]: Stands for "remove".
 
    - [λ rm -r dir-1]: Removes dir-1.
