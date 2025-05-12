@@ -1,4 +1,4 @@
->> Directories and files part-2:
+>> Directories & Files Part-2:
 
 > [λ command --help]: Get help for any command.
 > [λ command /?], For UNIX (man command): Shows the manual to the command and info about it with syntax.
