@@ -1,4 +1,4 @@
->> Directories and files part-1:
+>> Directories & Files Part-1:
 
 > [λ cd]: Stands for "change directory".
 
