@@ -1,7 +1,7 @@
->> Sessions topics:
-- Session-3: [Directories and files part-1].
-- Session-4: [Directories and files part-2].
-- Session-5: [Cat and echo].
-- Session-6: [Grep with examples].
-- Session-7: [Command line secrets part-1].
-- Session-8: [Command line secrets part-2].
+>> Sessions Topics:
+- Session-3: [Directories & Files Part-1].
+- Session-4: [Directories & Files Part-2].
+- Session-5: [Cat & Echo].
+- Session-6: [Grep With Examples].
+- Session-7: [Command Line Secrets Part-1].
+- Session-8: [Command Line Secrets Part-2].
