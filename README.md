@@ -1,10 +1,10 @@
-# Summary Of Command Line Topics, Commands & Notes:
+# Summary of Command Line Topics, Commands & Notes:
 
 This repository contains a collection of topics, commands & notes to enhance understanding of Command line.
 
 ---
 
-## Table Of Contents
+## Table of Contents
 
 - [Sessions Topics](#sessions-topics)
   - [Session-3: Deep Info](#session-1)
@@ -15,7 +15,7 @@ This repository contains a collection of topics, commands & notes to enhance und
   - [Session-7: Command Line Secrets (Part One)](#session-7)
   - [Session-8: Command Line Secrets (Part Two)](#session-8)
 - [Documentary Website (SS64)](#documentary-website-SS64)
-- [How To Use](#how-to-use)
+- [How to Use](#how-to-use)
 - [Contributions](#contributions)
 - [License](#license)
 
@@ -68,7 +68,7 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ---
 
-## How To Use
+## How to Use
 
 Navigate to the appropriate file to review its content.
 
