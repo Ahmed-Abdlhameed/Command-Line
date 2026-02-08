@@ -33,6 +33,7 @@
    - [λ ipconfig | clip || λ ipconfig > clip]: Copys the ipconfig info to the clipboard.  
    - [λ systeminfo | clip]: Copys the system info to the clipboard.
    - [λ any command | clip]: Copys the result to the clipboard.
+   - [λ ls | clip]: Copys the names of a directory's contents.
 
 ----------------------------------------------------------
 > [λ code]: Opens VS code.
