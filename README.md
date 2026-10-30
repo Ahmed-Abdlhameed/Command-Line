@@ -15,7 +15,7 @@ This repository contains a collection of topics, commands & notes to enhance und
   - [Session-7: Command Line Secrets (Part One)](#session-7)
   - [Session-8: Command Line Secrets (Part Two)](#session-8)
 - [Documentary Website (SS64)](#documentary-website-SS64)
-- [Getting-Started-How to Use](#getting-started-how-to-use)
+- [Getting Started (How to Use)](#getting-started-how-to-use)
 - [Contributions (Adding Your Own Commands)](#contributions-adding-your-own-commands)
 - [License & Author](#license--author)
 
