@@ -19,7 +19,8 @@
 > [λ tree || tree /a]: Shows the the archticture of all directories and sub directories in the location you are.
 
    - [λ tree /f]: Shows the archticture of all directories and sub directories along with their content.
-   - [λ tree dir-1 || tree /a dir-1]: Shows the archticture of all directories and sub directories in dir-1.
+   - [λ tree dir-1 /f]: Shows the archticture of all directories and sub directories along with their content inside dir-1.
+   - [λ tree dir-1 || tree /a dir-1]: Shows the archticture of all directories and sub directories inside dir-1.
 
 ----------------------------------------------------------
 > [λ osk]: Opens the on screen keyboard.
