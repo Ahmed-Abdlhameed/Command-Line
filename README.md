@@ -15,9 +15,9 @@ This repository contains a collection of topics, commands & notes to enhance und
   - [Session-7: Command Line Secrets (Part One)](#session-7)
   - [Session-8: Command Line Secrets (Part Two)](#session-8)
 - [Documentary Website (SS64)](#documentary-website-SS64)
-- [How to Use](#how-to-use)
-- [Contributions](#contributions)
-- [License](#license)
+- [Getting-Started-How to Use](#getting-started-how-to-use)
+- [Contributions (Adding Your Own Commands)](#contributions-adding-your-own-commands)
+- [License & Author](#license--author)
 
 ---
 
@@ -68,18 +68,18 @@ This repository contains a collection of topics, commands & notes to enhance und
 
 ---
 
-## How to Use
+## Getting Started (How to Use)
 
 Navigate to the appropriate file to review its content.
 
 ---
 
-## Contributions
+## Contributions (Adding Your Own Commands)
 
 Feel free to fork the repository and contribute by adding more commands or notes. Pull requests are welcomed!
 
 ---
 
-## License
+## License & Author
 
-This repository is for personal documentation purposes. Feel free to use or distribute its content as you wish.
+This repository is for personal documentation purposes. Feel free to use or distribute its content as you wish. Built by **Ahmed Abdelhameed**. Find me on [GitHub](https://github.com/Ahmed-Abdlhameed).
